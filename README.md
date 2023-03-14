@@ -1,2 +1,2 @@
 # Android_Development
-It contains projects of Android Development Studying in Acadamics.
+It contains projects related to Android Development Studied in Acadamics.
